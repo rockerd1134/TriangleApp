@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">TriangleApp</string>
-    <string name="button_evaluate">Check</string>
-    <string name="edit_input_values">Enter 3 values</string>
 </resources>
